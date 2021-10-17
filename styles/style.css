@@ -4,7 +4,7 @@
 .nav {
     text-align: center;
 }
-.#hero-msg h1,#hero-msg h4{
+#hero-msg h1,#hero-msg h4{
     text-align: center;
 }
 .button-box{
@@ -13,5 +13,34 @@
 .main{
     text-align: center;
 }
-
-    
+#background{
+    height: 72px;
+}
+body {
+    background-color: #00838F;
+}
+header{
+    background-color: #E29578;
+}
+nav a:hover{
+    background-color: black;
+    color:#E29578
+}
+.book,.join{
+    background-color: white;
+}
+.book:hover,.join:hover{
+    background-color: #83C5BE;
+}
+#background{
+    background-color: white;
+}
+.msg{
+    background-color: #E29578;
+}
+footer{
+    background-color: #00838F;
+}
+.icon{
+    width: 80px;
+}
