@@ -1,14 +1,14 @@
 .content{
-    {max-width: margin: 0 auto}
+    max-width: margin 0 auto
 }
 .nav {
-    {text-align: center;}
+    text-align: center;
 }
 .#hero-msg h1,#hero-msg h4{
-    {text-align: center;}
+    text-align: center;
 }
 .button-box{
-    {text-align: center;}
+    text-align: center;
 }
 .main{
     text-align: center;
